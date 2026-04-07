@@ -8,8 +8,16 @@ What I bring is a combination of technical growth, product thinking, and a stron
 ---
 
 ### 🛠 Technologies I'm working with
-`Java` `SQL` `MySQL` `Python` `REST APIs` `OOP` `Database Design` `UX / Interaction Design`
-
+![Java](https://img.shields.io/badge/Java-7F77DD?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1D9E75?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-378ADD?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-639922?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-D85A30?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-BA7517?style=flat-square&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-D4537E?style=flat-square&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-E24B4A?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-888780?style=flat-square&logoColor=white)
+![UX](https://img.shields.io/badge/UX%20%2F%20Interaction%20Design-1D9E75?style=flat-square&logoColor=white)
 ---
 
 ### 🔍 What I'm looking for
