@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Mariela (mariela.builds) 👋
+### Builder · Interaction Designer · Software Developer
 
-<!--
-**mariela-munguia/mariela-munguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a builder at heart <3 focused on creating products that are both functional and meaningful. My background in interaction design and UX shapes how I approach software development: I don't just think about code, I think about the people using what I build and the real problems it solves.
 
-Here are some ideas to get you started:
+What I bring is a combination of technical growth, product thinking, and a strong bias toward building, not just learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technologies I'm working with
+`Java` `SQL` `MySQL` `Python` `REST APIs` `OOP` `Database Design` `UX / Interaction Design`
+
+---
+
+### 🔍 What I'm looking for
+Opportunities to contribute to real-world products, grow as an engineer, and keep building systems that are thoughtful, scalable, and user-centered.
+
+---
+
