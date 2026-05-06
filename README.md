@@ -18,15 +18,20 @@ I'm looking for opportunities to contribute to real-world products, grow as a de
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-7F77DD?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-639922?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1D9E75?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-378ADD?style=for-the-badge&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-D85A30?style=for-the-badge&logo=fastapi&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="REST APIs" title="REST APIs" />
+</div>
+
+<br />
+
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-BA7517?style=for-the-badge)
 ![Database Design](https://img.shields.io/badge/Database_Design-D4537E?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-E24B4A?style=for-the-badge)
-![Figma]
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![UX Design](https://img.shields.io/badge/UX_Design-1D9E75?style=for-the-badge)
 
 ---
