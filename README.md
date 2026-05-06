@@ -27,7 +27,6 @@ I'm looking for opportunities to contribute to real-world products, grow as a de
 ![Database Design](https://img.shields.io/badge/Database_Design-D4537E?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-E24B4A?style=for-the-badge)
 ![Figma]
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 ![UX Design](https://img.shields.io/badge/UX_Design-1D9E75?style=for-the-badge)
 
 ---
