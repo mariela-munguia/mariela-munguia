@@ -5,7 +5,7 @@
 I'm a builder at heart <3 focused on creating products that are both functional and meaningful. My background in interaction design and user experience shapes how I approach software development. I don't just think about code. I think about the people using what I build and how it solves real problems. What I bring is a combination of technical growth, product thinking, and a strong bias toward building & learning.
 
 ## 🚀 What I’m Focused On
-Building real-world, scalable applications. Strengthening backend and systems thinking.Designing intuitive, user-first experiences.Continuously learning and shipping.
+Building real-world, scalable applications. Strengthening backend and systems thinking. Designing intuitive, user-first experiences. Continuously learning and shipping.
 
 ## 🧠 How I Think
 I don’t just write code | I think in systems.<br><br>- What problem does this solve?  <br>- Who is it for?  <br>- How does it scale?  <br>- How does it *feel* to use?  <br><br>That mindset helps me build products that are not only functional, but meaningful.<br><br>---<br><br>## 📌 Currently<br><br>- Learning deeper backend architecture  <br>- Building projects that reflect real-world use cases  <br>- Exploring the intersection of design + engineering  <br>
