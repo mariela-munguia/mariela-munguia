@@ -65,10 +65,11 @@ That mindset helps me build products that are not only functional, but meaningfu
 ## Languages
 
 ![Java](https://img.shields.io/badge/Java-FF69B4?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6D9?style=flat-square&logo=javascript&logoColor=4B0082)
 ![HTML5](https://img.shields.io/badge/HTML5-FF85C1?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-B15CFF?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C6FF?style=flat-square&logo=python&logoColor=4B0082)
-![MySQL](https://img.shields.io/badge/MySQL-C084FC?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C71585?style=flat-square&logo=mysql&logoColor=white)
 
 ## Developer Tools
 
